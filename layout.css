@@ -3,7 +3,7 @@
 body{ margin:0; }
 
 header, footer {
-    background-color: #FFA600;
+    background-color: white;
     padding: 2em;
 }
 
@@ -29,6 +29,8 @@ aside {
 nav {
     background-color: #40C6FF;
     padding: 1em;
+    line-height: 2em;
+    
 }
 
 footer { clear: both;}
