@@ -3,34 +3,37 @@
 body{ margin:0; }
 
 header, footer {
-    background-color: white;
+    background-color: black;
     padding: 2em;
+    color:white;
 }
 
 
 main {
-    background-color:#14C6CC;
+    background-color:black;
     padding:1em;
 
     box-sizing: 10px;
     width: 50%;
     float:left;
+    color:white;
 }
 
 aside {
-    background-color: #998B3D;
+    background-color: black;
     padding:4em;
 
     box-sizing: border-box;
     width: 30%;
     float:right;
+    color:white;
 }
 
 nav {
-    background-color: #40C6FF;
+    background-color: black;
     padding: 1em;
     line-height: 2em;
-
+    color:white;
 }
 
 footer { clear: both;}
@@ -42,6 +45,7 @@ footer { clear: both;}
     main, aside {
         float: none;
         width: auto;
+        color:white;
     }
 
 }
