@@ -9,18 +9,18 @@ header, footer {
 
 
 main {
-    background-color: #14C6CC;
+    background-color:#14C6CC;
     padding:10em;
-    
-    box-sizing: border-box;
-    width: 70%;
+
+    box-sizing: 10px;
+    width: 50%;
     float:left;
 }
 
 aside {
     background-color: #998B3D;
     padding:4em;
-    
+
     box-sizing: border-box;
     width: 30%;
     float:right;
@@ -30,7 +30,7 @@ nav {
     background-color: #40C6FF;
     padding: 1em;
     line-height: 2em;
-    
+
 }
 
 footer { clear: both;}
@@ -43,5 +43,5 @@ footer { clear: both;}
         float: none;
         width: auto;
     }
-    
+
 }
